@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Footer() {
+function Portfolio() {
   return (
     <div>
-      Footer
+      Portfolio
     </div>
   )
 }
 
-export default Footer
+export default Portfolio

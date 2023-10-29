@@ -1,0 +1,50 @@
+.passwordGeneratorImg {
+    width: 80%;
+    margin-left: 12%;
+    background-color: black;
+}
+
+.portfolio-img-container {
+    background-color: black;
+    margin: 20px;
+}
+
+.caption {
+    background-color: black;
+    color: #CBD0B9;
+    margin-left: 12%;
+}
+
+.caption2 {
+    background-color: black;
+    color: #CBD0B9;
+    margin-left: 8%;
+}
+
+.portfolioPgContainer {
+    display: flex;
+    margin-top: 20px;
+}
+
+.link {
+    background-color: black;
+}
+
+.weatherImg {
+    width: 85%;
+    margin-left: 8%;
+    background-color: black;
+    margin-top: 10px;
+}
+
+.project-code-btn {
+    display: flex;
+    justify-content: center;
+    margin-left: 12%;
+}
+
+.project-code-btn2 {
+    display: flex;
+    justify-content: center;
+    margin-left: 8%;
+}

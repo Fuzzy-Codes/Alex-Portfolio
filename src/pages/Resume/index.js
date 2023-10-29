@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Header() {
+function Resume() {
   return (
     <div>
-      Header
+      Resume
     </div>
   )
 }
 
-export default Header
+export default Resume

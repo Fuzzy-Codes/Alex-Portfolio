@@ -1,0 +1,21 @@
+.headerNav-container {
+    background-color: black;
+    display: block;
+}
+
+.headerName {
+    background-color: black;
+    color: #cbd0b9;
+    display: flex;
+    align-items: center;
+}
+
+.nav-tabs {
+    justify-content: space-between;
+    margin-left: auto;
+    background-color: black;
+}
+
+.nav-item {
+    background-color: black;
+}
