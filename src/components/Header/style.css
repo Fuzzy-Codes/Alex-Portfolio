@@ -1,19 +1,30 @@
 .headerNav-container {
     background-color: black;
     display: block;
+    margin: 2rem 0;
+    padding: 1rem 0;
+    border-top: #115cb7 groove 5px;
+    border-bottom: #115cb7 groove 5px;
 }
 
 .headerName {
     background-color: black;
-    color: #cbd0b9;
+    color: #115cb7;
     display: flex;
+    padding-left: 3rem;
     align-items: center;
+    font-size: 2.4rem;
+    
 }
 
 .nav-tabs {
     justify-content: space-between;
-    margin-left: auto;
     background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 3rem;
+    color: aqua;
+    font-size: 1.5rem;
 }
 
 .nav-item {

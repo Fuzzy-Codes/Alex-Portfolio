@@ -3,7 +3,12 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: var(--black);
+    background-color: black;
     width: 100%;
-    height: 6.5rem;
+    height: 6.8rem;
+    color: #115cb7;
+    font-size: large;
+    padding-top: 1rem;
+    border-top: #115cb7 groove 5px;
+    border-bottom: #115cb7 groove 5px;
 }

@@ -1,0 +1,19 @@
+.AboutMe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 40vh;
+    background-color: #000000;
+    margin: 2rem;
+    padding: 0 20px;
+    color: white;
+    text-align: center;
+    border: #115cb7 groove 5px;
+}
+
+.AboutMeTitle {
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+    color: #115cb7;
+}

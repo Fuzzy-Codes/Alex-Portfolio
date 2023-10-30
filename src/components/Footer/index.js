@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './style.css'
 
 
 function Footer() {
@@ -12,7 +12,7 @@ function Footer() {
         <a href="https://www.linkedin.com/in/alex-colwell-456993296/">LinkedIn</a>
       </div>
       <div>
-        <a href="alexcolwell13@gmail.com">Email</a>
+        <p>Email: alexcolwell13@gmail.com</p>
       </div>
     </footer>
   );
